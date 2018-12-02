@@ -1,4 +1,4 @@
-package com.cqupt.personal.oneapplication;
+package com.cqupt.personal.oneapplication.Fragment;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

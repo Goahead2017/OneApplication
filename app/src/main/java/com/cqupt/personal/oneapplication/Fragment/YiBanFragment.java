@@ -1,19 +1,21 @@
-package com.cqupt.personal.oneapplication;
+package com.cqupt.personal.oneapplication.Fragment;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class HaoYouFragment extends BaseFragment {
+import com.cqupt.personal.oneapplication.Fragment.BaseFragment;
+import com.cqupt.personal.oneapplication.R;
+
+public class YiBanFragment extends BaseFragment {
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_haoyou,container,false);
+        View view = inflater.inflate(R.layout.fragment_yiban,container,false);
         return view;
     }
 

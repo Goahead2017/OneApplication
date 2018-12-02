@@ -6,6 +6,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.RadioGroup;
 
+import com.cqupt.personal.oneapplication.Fragment.DaiBanFragment;
+import com.cqupt.personal.oneapplication.Fragment.FaBuFragment;
+import com.cqupt.personal.oneapplication.Fragment.HaoYouFragment;
+import com.cqupt.personal.oneapplication.Fragment.YiBanFragment;
+
 import java.util.ArrayList;
 import java.util.List;
 
